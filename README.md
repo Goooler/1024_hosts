@@ -2,6 +2,7 @@
 一个自用的hosts文件,用于屏蔽一些1024站的弹窗广告和辣鸡澳门赌场的广告。欢迎反馈
 
 顺便贴一些别人维护可用的hosts：
+
 http://someonewhocares.org/hosts/hosts
 http://sysctl.org/cameleon/hosts
 http://winhelp2002.mvps.org/hosts.txt
