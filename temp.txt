@@ -1,0 +1,7 @@
+127.0.0.1 aplay.wan.panda.tv
+127.0.0.1 caesar.wan.panda.tv
+127.0.0.1 play.wan.panda.tv
+127.0.0.1 wan.panda.tv
+127.0.0.1 cdn.g.wan.douyu.com
+127.0.0.1 tx2play1.douyucdn.cn
+127.0.0.1 tx2play2.douyucdn.cn
