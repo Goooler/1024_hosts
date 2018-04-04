@@ -9,8 +9,7 @@ http://www.hostsfile.org/Downloads/hosts.txt
 http://www.malwaredomainlist.com/hostslist/hosts.txt  
 https://adaway.org/hosts.txt  
 https://hblock.molinero.xyz/hosts  
-https://hosts-file.net/ad_servers.txt  
-https://neko-dev.github.io/neohosts/full/hosts  
+https://hosts-file.net/ad_servers.txt    
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext  
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts  
 https://raw.githubusercontent.com/tekintian/hosts_ads_block/master/mobile/hosts  
