@@ -17,4 +17,4 @@ https://raw.githubusercontent.com/vokins/yhosts/master/hosts
 https://raw.githubusercontent.com/yous/YousList/master/hosts.txt  
 
 另外发现这些hosts有部分误伤，建议将如下域名加入白名单：  
-s.click.tmall.com  s.click.taobao.com  www.flyme.cn  t.cn  url.cn  bit.ly  
+s.click.tmall.com    s.click.taobao.com    www.flyme.cn    t.cn    url.cn    bit.ly  
