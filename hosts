@@ -1222,7 +1222,6 @@
 127.0.0.1 click-cn.plista.com
 127.0.0.1 click.admaster.com.cn
 127.0.0.1 click.alibaba.com
-127.0.0.1 click.alibaba.com:443
 127.0.0.1 click.atdmt.com
 127.0.0.1 click.bes.baidu.com
 127.0.0.1 click.cheshi.com
@@ -1828,7 +1827,7 @@
 127.0.0.1 isafe.pro
 127.0.0.1 isite.baidu.com
 127.0.0.1 iwan.sogou.com
-127.0.0.1 ixeq490u20.com:443
+127.0.0.1 ixeq490u20.com
 127.0.0.1 iz64.com
 127.0.0.1 j.br.baidu.com
 127.0.0.1 j.dipowang.cn
@@ -2155,7 +2154,6 @@
 127.0.0.1 nz04com.com
 127.0.0.1 o77505.com
 127.0.0.1 ocsp.digicert.com
-127.0.0.1 ocsp2.globalsign.com
 127.0.0.1 odr.mookie1.com
 127.0.0.1 ogkoxu.men
 127.0.0.1 ohrgflbcm.qnssl.com
@@ -3588,7 +3586,7 @@
 127.0.0.1 www.ad.h5qpcw.cn
 127.0.0.1 www.addthis.com
 127.0.0.1 www.addthisedge.com
-127.0.0.1 www.adexchangecloud.com:443
+127.0.0.1 www.adexchangecloud.com
 127.0.0.1 www.adm-cnzz.net
 127.0.0.1 www.adnxs.com
 127.0.0.1 www.adriver.ru
