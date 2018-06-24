@@ -777,6 +777,7 @@
 127.0.0.1 api.mcwbiz.com
 127.0.0.1 api.mixpanel.com
 127.0.0.1 api.popads.net
+127.0.0.1 api.popcash.net
 127.0.0.1 api.popin.cc
 127.0.0.1 api.pubmatic.com
 127.0.0.1 api.share.baidu.com
@@ -1221,6 +1222,7 @@
 127.0.0.1 cdn.openxt.cn
 127.0.0.1 cdn.optaim.com
 127.0.0.1 cdn.outfit7.com
+127.0.0.1 cdn.popcash.net
 127.0.0.1 cdn.puata.info
 127.0.0.1 cdn.rdrads.com
 127.0.0.1 cdn.scdng.com
@@ -2175,10 +2177,12 @@
 127.0.0.1 members.amaland.com
 127.0.0.1 members.dagfs.com
 127.0.0.1 members.gf-members.com
+127.0.0.1 members.popcash.net
 127.0.0.1 memberscs.com
 127.0.0.1 menwww.com
 127.0.0.1 mfjegjqb.com
 127.0.0.1 mg.067555.com
+127.0.0.1 mg.popcash.net
 127.0.0.1 mg.tai0055.com
 127.0.0.1 mg.tai3311.com
 127.0.0.1 mg4376.cc
@@ -2462,6 +2466,7 @@
 127.0.0.1 pop.code.mytanwan.com
 127.0.0.1 pop.ero-advertising.com
 127.0.0.1 popads.net
+127.0.0.1 popcash.net
 127.0.0.1 popcornvod.com
 127.0.0.1 popearn.com
 127.0.0.1 portal.adsfactor.net
@@ -2542,6 +2547,7 @@
 127.0.0.1 r.remarketingpixel.com
 127.0.0.1 r.xcycm.com
 127.0.0.1 r1.zemanta.com
+127.0.0.1 r2.popcash.net
 127.0.0.1 r55268.com
 127.0.0.1 r88150.com
 127.0.0.1 random.kskdt.cn
@@ -2897,6 +2903,7 @@
 127.0.0.1 sp-res.kosungames.com
 127.0.0.1 sp.analytics.yahoo.com
 127.0.0.1 sp.fastclick.net
+127.0.0.1 sp.popcash.net
 127.0.0.1 spacenine.genieesspv.jp
 127.0.0.1 spcdnpc.i-mobile.co.jp
 127.0.0.1 spdtrk.com
@@ -2923,6 +2930,7 @@
 127.0.0.1 ssum-sec.casalemedia.com
 127.0.0.1 st.adnxs.com
 127.0.0.1 st.adriver.ru
+127.0.0.1 staging.popcash.net
 127.0.0.1 star.86uk.com
 127.0.0.1 stat.lianmeng.360.cn
 127.0.0.1 stat.tf.360.cn
@@ -2945,6 +2953,7 @@
 127.0.0.1 static.parastorage.com
 127.0.0.1 static.plufdsb.com
 127.0.0.1 static.popads.net
+127.0.0.1 static.popcash.net
 127.0.0.1 static.realasianexposed.com
 127.0.0.1 static.realemoexposed.com
 127.0.0.1 static.reallatinaexposed.com
@@ -3192,6 +3201,7 @@
 127.0.0.1 v.adsfactor.net
 127.0.0.1 v.dbncp.com
 127.0.0.1 v.gougeyy.com
+127.0.0.1 v.popcash.net
 127.0.0.1 v.tf.360.cn
 127.0.0.1 v00087.com
 127.0.0.1 v1.cnzz.com
@@ -4185,6 +4195,7 @@
 127.0.0.1 www.plufdsb.com
 127.0.0.1 www.pn36.cn
 127.0.0.1 www.popads.net
+127.0.0.1 www.popcash.net
 127.0.0.1 www.popcornvod.com
 127.0.0.1 www.poweredbyliquidfire.mobi
 127.0.0.1 www.pp5200.com
