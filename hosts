@@ -1197,6 +1197,7 @@
 127.0.0.1 cdn.at.atwola.com
 127.0.0.1 cdn.atwola.com
 127.0.0.1 cdn.bidvertiser.com
+127.0.0.1 cdn.ckstatic.com
 127.0.0.1 cdn.cmop.mgtv.com
 127.0.0.1 cdn.cooguo.com
 127.0.0.1 cdn.districtm.io
@@ -2169,6 +2170,8 @@
 127.0.0.1 mail.atas.io
 127.0.0.1 mail.digicert.com
 127.0.0.1 mail.exoclick.com
+127.0.0.1 mail.joinupads.com
+127.0.0.1 mail.ldrtrack.com
 127.0.0.1 main.dynsrvaba.com
 127.0.0.1 main.exdynsrv.com
 127.0.0.1 main.exoclick.com
@@ -2188,6 +2191,7 @@
 127.0.0.1 media.adsymptotic.com
 127.0.0.1 media.fastclick.net
 127.0.0.1 media.innity.net
+127.0.0.1 media.joinupads.com
 127.0.0.1 media.trafficfactory.biz
 127.0.0.1 mediad2.jp
 127.0.0.1 mediakey1.ef.com
@@ -2341,6 +2345,7 @@
 127.0.0.1 nsclickvideo.baidu.com
 127.0.0.1 nt.compass-fit.jp
 127.0.0.1 nuanwenxue.xyz
+127.0.0.1 nvkrm.imideals.com
 127.0.0.1 nw0z8.cn
 127.0.0.1 nwww.gkxs.com
 127.0.0.1 nz04com.com
@@ -3054,6 +3059,7 @@
 127.0.0.1 t.dtscdn.com
 127.0.0.1 t.frtyh.com
 127.0.0.1 t.frtyj.com
+127.0.0.1 t.frtyk.com
 127.0.0.1 t.fv99.com
 127.0.0.1 t.grtyi.com
 127.0.0.1 t.hrtyc.com
@@ -4008,6 +4014,7 @@
 127.0.0.1 www.chntdnc.cn
 127.0.0.1 www.chufengep.com
 127.0.0.1 www.ckkummq.cn
+127.0.0.1 www.ckstatic.com
 127.0.0.1 www.cloud-umeng.com
 127.0.0.1 www.cney.cc
 127.0.0.1 www.cnzz.com
@@ -4141,6 +4148,7 @@
 127.0.0.1 www.kxmav2.com
 127.0.0.1 www.l77777777.com
 127.0.0.1 www.lc090.com
+127.0.0.1 www.ldrtrack.com
 127.0.0.1 www.lehaitv.com
 127.0.0.1 www.lehu910.com
 127.0.0.1 www.lfwlcvq.top
@@ -4175,6 +4183,7 @@
 127.0.0.1 www.modulepush.com
 127.0.0.1 www.momode.net
 127.0.0.1 www.mp8883.com
+127.0.0.1 www.mrskin.com
 127.0.0.1 www.ms.wghjq.cn
 127.0.0.1 www.muvflix.com
 127.0.0.1 www.mvvecbfomk.com
