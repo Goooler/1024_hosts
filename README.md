@@ -1,5 +1,5 @@
 # 1024_hosts
-一个自用的hosts文件,用于屏蔽一些1024站的弹窗广告和辣鸡澳门赌场的广告。欢迎反馈
+自用的hosts文件,用于屏蔽一些1024站的弹窗广告和辣鸡澳门赌场的广告。欢迎反馈
 
 顺便贴一些别人维护可用的hosts：  
 http://someonewhocares.org/hosts/hosts  
@@ -17,5 +17,4 @@ https://raw.githubusercontent.com/vokins/yhosts/master/hosts
 https://raw.githubusercontent.com/yous/YousList/master/hosts.txt  
 https://hosts.nfz.moe/full/hosts  
 
-另外发现这些hosts有部分误伤，建议将如下域名加入白名单：  
-s.click.tmall.com    s.click.taobao.com    www.flyme.cn    t.cn    url.cn    bit.ly  
+另外发现这些hosts有部分误伤，建议将whitelist加入白名单
