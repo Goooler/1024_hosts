@@ -1,8 +1,9 @@
-s.click.tmall.com
-s.click.taobao.com
-www.flyme.cn
-pp.myapp.com
-t.cn
-sh.st
-url.cn
-bit.ly  
+# This hosts file contains exported entries from AdAway.
+white s.click.tmall.com
+white s.click.taobao.com
+white pp.myapp.com
+white *.flyme.cn
+white url.cn
+white t.cn
+white sh.st
+white bit.ly
