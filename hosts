@@ -525,6 +525,7 @@
 127.0.0.1 a.clickdata.37wan.com
 127.0.0.1 a.cnzz.com
 127.0.0.1 a.company-target.com
+127.0.0.1 a.pub.network
 127.0.0.1 a.shangz99991.com
 127.0.0.1 a.starstar19999.com
 127.0.0.1 a.startui19999.com
@@ -676,11 +677,14 @@
 127.0.0.1 ads.huolinghu.cn
 127.0.0.1 ads.juicyads.com
 127.0.0.1 ads.maist.jp
+127.0.0.1 ads.openx.net
 127.0.0.1 ads.pro-market.net
 127.0.0.1 ads.pubmatic.com
+127.0.0.1 ads.scorecardresearch.com
 127.0.0.1 ads.shorte.st
 127.0.0.1 ads.sitemaji.com
 127.0.0.1 ads.spacenine.biz
+127.0.0.1 ads.stickyadstv.com
 127.0.0.1 ads.trafficjunky.net
 127.0.0.1 ads.turn.com
 127.0.0.1 ads.yenlm.com
@@ -835,6 +839,7 @@
 127.0.0.1 appgasstation.com
 127.0.0.1 aq44.com
 127.0.0.1 art.theta.sogoucdn.com
+127.0.0.1 as-sec.casalemedia.com
 127.0.0.1 as.boc.cn
 127.0.0.1 as.innity.com
 127.0.0.1 asearch.alicdn.com
@@ -1069,6 +1074,7 @@
 127.0.0.1 bwin2599.com
 127.0.0.1 c.adsco.re
 127.0.0.1 c.adsymptotic.com
+127.0.0.1 c.amazon-adsystem.com
 127.0.0.1 c.cnzz.com
 127.0.0.1 c.codeonclick.com
 127.0.0.1 c.cyto-biotherapy.com
@@ -1081,6 +1087,7 @@
 127.0.0.1 c.mgid.com
 127.0.0.1 c.pc.qq.com
 127.0.0.1 c.piclect.com
+127.0.0.1 c.pub.network
 127.0.0.1 c.rdldtrk.com
 127.0.0.1 c.spnccrzone.com
 127.0.0.1 c.statcounter.com
@@ -1091,6 +1098,7 @@
 127.0.0.1 c.wuliu800.com.cn
 127.0.0.1 c.yootui19999.com
 127.0.0.1 c.youzu.com
+127.0.0.1 c1.adform.net
 127.0.0.1 c1.cdnjav.com
 127.0.0.1 c1.popads.net
 127.0.0.1 c1.statcounter.com
@@ -1250,6 +1258,7 @@
 127.0.0.1 cdn.rdrads.com
 127.0.0.1 cdn.scdng.com
 127.0.0.1 cdn.sp.rizhao9.com
+127.0.0.1 cdn.stickyadstv.com
 127.0.0.1 cdn.taboola.com
 127.0.0.1 cdn.taboolasyndication.com
 127.0.0.1 cdn.tanx.com
@@ -1471,6 +1480,7 @@
 127.0.0.1 count97.51yes.com
 127.0.0.1 count98.51yes.com
 127.0.0.1 count99.51yes.com
+127.0.0.1 cp.adform.net
 127.0.0.1 cp.jfcdns.com
 127.0.0.1 cp10com.com
 127.0.0.1 cp88566.com
@@ -1511,6 +1521,7 @@
 127.0.0.1 d.fire2333.com
 127.0.0.1 d.hgame.com
 127.0.0.1 d.menwww.com
+127.0.0.1 d.pub.network
 127.0.0.1 d.youzu.com
 127.0.0.1 d14.8ox.cn
 127.0.0.1 d16b4.8ox.cn
@@ -1532,6 +1543,7 @@
 127.0.0.1 de.jmhengwei.cn
 127.0.0.1 delivery.trafficforce.com
 127.0.0.1 deloton.com
+127.0.0.1 demo.stickyadstv.com
 127.0.0.1 des.digicert.com
 127.0.0.1 detailsay.info
 127.0.0.1 dev.atas.io
@@ -1672,6 +1684,7 @@
 127.0.0.1 fans.bestvogue.com
 127.0.0.1 fapmeth.com
 127.0.0.1 fast-cdn.dianjoy.com
+127.0.0.1 fastlane.rubiconproject.com
 127.0.0.1 fastpopunder.com
 127.0.0.1 fc56b.me
 127.0.0.1 fclick.baidu.com
@@ -1685,6 +1698,7 @@
 127.0.0.1 fh22.com
 127.0.0.1 fhgstzgrdhkah.bid
 127.0.0.1 file.ppbk9.com
+127.0.0.1 files.adform.net
 127.0.0.1 files.adriver.ru
 127.0.0.1 files.jb51.net
 127.0.0.1 finalchace.com
@@ -1706,6 +1720,7 @@
 127.0.0.1 free-adult-games.com
 127.0.0.1 free.babynameready.com
 127.0.0.1 freegeoip.net
+127.0.0.1 freestar-d.openx.net
 127.0.0.1 freeteen.com
 127.0.0.1 friendlyduck.com
 127.0.0.1 frog.wix.com
@@ -1728,6 +1743,7 @@
 127.0.0.1 g1.163.com
 127.0.0.1 g1.tagtic.cn
 127.0.0.1 g15.wewofo.com
+127.0.0.1 g2.gumgum.com
 127.0.0.1 g2.symcb.com
 127.0.0.1 g78999.com
 127.0.0.1 gafxa.code.mytanwan.com
@@ -1914,6 +1930,7 @@
 127.0.0.1 imgcdn.wapx.cn
 127.0.0.1 imglnka.com
 127.0.0.1 imlive.com
+127.0.0.1 imp.openx.net
 127.0.0.1 imyh.dns88888.com
 127.0.0.1 in.treasuredata.com
 127.0.0.1 index.0470key.com
@@ -2216,6 +2233,7 @@
 127.0.0.1 manage.juicyads.com
 127.0.0.1 mapping.yoyi.com.cn
 127.0.0.1 match.adsrvr.org
+127.0.0.1 match.deepintent.com
 127.0.0.1 maxonclick.com
 127.0.0.1 mbpmfrx.com
 127.0.0.1 mc.yandex.ru
@@ -2238,6 +2256,7 @@
 127.0.0.1 members.popcash.net
 127.0.0.1 memberscs.com
 127.0.0.1 menwww.com
+127.0.0.1 meta.openx.net
 127.0.0.1 mfjegjqb.com
 127.0.0.1 mg.067555.com
 127.0.0.1 mg.popcash.net
@@ -2421,6 +2440,7 @@
 127.0.0.1 oort.wifi588.net
 127.0.0.1 openbox.mobilem.360.cn
 127.0.0.1 openrcv.baidu.com
+127.0.0.1 openx.net
 127.0.0.1 ops.zibov.com
 127.0.0.1 optimize.innity.com
 127.0.0.1 osfota.cdn.aliyun.com
@@ -2428,6 +2448,7 @@
 127.0.0.1 oszgs06.me
 127.0.0.1 ouslayer.co
 127.0.0.1 owner1a.520wdy.com
+127.0.0.1 ox-d.justpremium.com
 127.0.0.1 oztjye4lc.bkt.clouddn.com
 127.0.0.1 p.adsymptotic.com
 127.0.0.1 p.codejumps.com
@@ -2461,6 +2482,7 @@
 127.0.0.1 p99998888.com
 127.0.0.1 pagead46.l.doubleclick.net
 127.0.0.1 paid.outbrain.com
+127.0.0.1 panther.adform.net
 127.0.0.1 papapa.tv
 127.0.0.1 partner.sitemaji.com
 127.0.0.1 passport.youzu.com
@@ -2584,6 +2606,7 @@
 127.0.0.1 pushance.com
 127.0.0.1 pussl48.com
 127.0.0.1 pw.cnzz.com
+127.0.0.1 pxl.connexity.net
 127.0.0.1 pz0.3dn.mse.sogou.com
 127.0.0.1 q1-tdsge.com
 127.0.0.1 q1.cnzz.com
@@ -2625,6 +2648,7 @@
 127.0.0.1 r2.popcash.net
 127.0.0.1 r55268.com
 127.0.0.1 r88150.com
+127.0.0.1 radio.stickyadstv.com
 127.0.0.1 random.kskdt.cn
 127.0.0.1 raossycpodtr.bid
 127.0.0.1 rationalan.pro
@@ -2711,6 +2735,7 @@
 127.0.0.1 s0.2mdn.net
 127.0.0.1 s1.176878.com
 127.0.0.1 s1.addthis.com
+127.0.0.1 s1.adform.net
 127.0.0.1 s1.cnzz.com
 127.0.0.1 s1.stat.lianmeng.360.cn
 127.0.0.1 s1.yzdh44.com
@@ -2773,6 +2798,7 @@
 127.0.0.1 s18.cnzz.com
 127.0.0.1 s19.cnzz.com
 127.0.0.1 s2.addthis.com
+127.0.0.1 s2.adform.net
 127.0.0.1 s2.cnzz.com
 127.0.0.1 s2.dnaxddnc.com
 127.0.0.1 s2.guanglijiudian.com
@@ -2923,6 +2949,7 @@
 127.0.0.1 secure.juicyads.com
 127.0.0.1 secure.livechatinc.com
 127.0.0.1 secure.nicemilfass.com
+127.0.0.1 secure.quantserve.com
 127.0.0.1 secure.statcounter.com
 127.0.0.1 secure.sweetasianjuice.com
 127.0.0.1 secure.vkontakte.ru
@@ -2935,6 +2962,7 @@
 127.0.0.1 segpay.com
 127.0.0.1 serve.popads.net
 127.0.0.1 servedby.adsfactor.net
+127.0.0.1 server.adform.net
 127.0.0.1 service.jiagu.360.cn
 127.0.0.1 service.youzu.com
 127.0.0.1 servicer.adskeeper.co.uk
@@ -3058,6 +3086,7 @@
 127.0.0.1 stats.juicyads.com
 127.0.0.1 stats3.unrulymedia.com
 127.0.0.1 status.digicert.com
+127.0.0.1 stickyadstv.com
 127.0.0.1 stm-cdn.cn.miaozhen.com
 127.0.0.1 storage.anastasiadate.com
 127.0.0.1 store.atas.io
@@ -3074,6 +3103,7 @@
 127.0.0.1 support.digicert.com
 127.0.0.1 support.exoclick.com
 127.0.0.1 support.juicyads.com
+127.0.0.1 support.stickyadstv.com
 127.0.0.1 sv102.piclect.com
 127.0.0.1 sw3sydl.duoyi.com
 127.0.0.1 sy-cdnres.unionsy.com
@@ -3100,6 +3130,7 @@
 127.0.0.1 sync.mookie1.cn
 127.0.0.1 sync.shinobi.jp
 127.0.0.1 sync.teads.tv
+127.0.0.1 sync.tidaltv.com
 127.0.0.1 sync.user-grey.com
 127.0.0.1 sync3.adsniper.ru
 127.0.0.1 syndication.adk2x.com
@@ -3186,6 +3217,7 @@
 127.0.0.1 tr.offtrackads.com
 127.0.0.1 trace.ledu.com
 127.0.0.1 track.absoluteclickscom.com
+127.0.0.1 track.adform.net
 127.0.0.1 track.adrunnr.com
 127.0.0.1 track.crumobiapps.com
 127.0.0.1 track.game18click.com
@@ -3228,6 +3260,7 @@
 127.0.0.1 tw.www.ll.yahoo.com
 127.0.0.1 twilightdata.com
 127.0.0.1 twmall.sexyno1.com
+127.0.0.1 two.stickyadstv.com
 127.0.0.1 tx2play1.douyucdn.cn
 127.0.0.1 tx2play2.douyucdn.cn
 127.0.0.1 tx8jj.com
@@ -3237,6 +3270,7 @@
 127.0.0.1 tyc9500.com
 127.0.0.1 tzhjxf.com
 127.0.0.1 tzjs.ksylx.com
+127.0.0.1 u.openx.net
 127.0.0.1 u01.tripbbk.com
 127.0.0.1 u8gsv.7925fmt1.pw
 127.0.0.1 ubmcmm.baidustatic.com
@@ -3266,6 +3300,8 @@
 127.0.0.1 uri6.com
 127.0.0.1 url.tudown.com
 127.0.0.1 urlqh.cn
+127.0.0.1 us-u.openx.net
+127.0.0.1 us.adform.net
 127.0.0.1 us1.xvika.com
 127.0.0.1 usa.bravo-dog.com
 127.0.0.1 uscxh.com
@@ -4291,6 +4327,7 @@
 127.0.0.1 www.onclicksuper.com
 127.0.0.1 www.onclicktop.com
 127.0.0.1 www.online166.com
+127.0.0.1 www.openx.net
 127.0.0.1 www.p1.3b82.com
 127.0.0.1 www.p18894.com
 127.0.0.1 www.p2343.com
@@ -4393,6 +4430,7 @@
 127.0.0.1 www.sqljcg.cn
 127.0.0.1 www.sqms.cn
 127.0.0.1 www.ss7778.com
+127.0.0.1 www.stickyadstv.com
 127.0.0.1 www.su4y89.club
 127.0.0.1 www.sun0062.com
 127.0.0.1 www.szxc540.com
