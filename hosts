@@ -711,6 +711,7 @@
 127.0.0.1 adsclick.qq.com
 127.0.0.1 adsco.re
 127.0.0.1 adserver.juicyads.com
+127.0.0.1 adserver.smart.bid
 127.0.0.1 adsfactor.net
 127.0.0.1 adskeeper.co.uk
 127.0.0.1 adsniper.ru
@@ -1308,6 +1309,7 @@
 127.0.0.1 certificates.godaddy.com
 127.0.0.1 cf.cdn.inmobi.com
 127.0.0.1 cgi.adriver.ru
+127.0.0.1 ch2u.getnewsupdate.info
 127.0.0.1 ch615.wx.11h5.com
 127.0.0.1 chanicut.com
 127.0.0.1 chaopeng1.cn
@@ -1401,6 +1403,7 @@
 127.0.0.1 constintptr.com
 127.0.0.1 content.adriver.ru
 127.0.0.1 content.digicert.com
+127.0.0.1 cookie.vrtzads.com
 127.0.0.1 cool18.com
 127.0.0.1 cootek-file.cdn.cootekservice.com
 127.0.0.1 count.mail.163.com
@@ -1679,6 +1682,7 @@
 127.0.0.1 elanatality.info
 127.0.0.1 elepocial.pro
 127.0.0.1 emoneyspace.com
+127.0.0.1 engine.adbooth.com
 127.0.0.1 engine.phn.doublepimp.com
 127.0.0.1 engine.spotscenered.info
 127.0.0.1 enousouz.info
@@ -1690,19 +1694,29 @@
 127.0.0.1 ereg.wip3.adobe.com
 127.0.0.1 ers.baidu.com
 127.0.0.1 es.exoclick.com
+127.0.0.1 eu.sync-srv.com
 127.0.0.1 eus.rubiconproject.com
 127.0.0.1 eversely.com
 127.0.0.1 exoclick.com
 127.0.0.1 exosrv.com
 127.0.0.1 expedia.com.hk
 127.0.0.1 f.cn-sd.com
+127.0.0.1 f0.mtqys.com
 127.0.0.1 f1.luoshenbest.com
+127.0.0.1 f1.mtqys.com
 127.0.0.1 f18.livechatvalue.com
 127.0.0.1 f2.luoshenbest.com
+127.0.0.1 f2.mtqys.com
 127.0.0.1 f2326.com
 127.0.0.1 f2d.xzg001.com
+127.0.0.1 f3.mtqys.com
+127.0.0.1 f4.mtqys.com
 127.0.0.1 f5.mtqys.com
 127.0.0.1 f56g.me
+127.0.0.1 f6.mtqys.com
+127.0.0.1 f7.mtqys.com
+127.0.0.1 f8.mtqys.com
+127.0.0.1 f9.mtqys.com
 127.0.0.1 faassd.adhce.cn
 127.0.0.1 fafa.ya4444.com
 127.0.0.1 fanqianbb.com
@@ -1789,7 +1803,9 @@
 127.0.0.1 genieedmp.com
 127.0.0.1 geo-um.btrll.com
 127.0.0.1 get-fuck-tonight-us4-foryou.dailynews.ovh
+127.0.0.1 get.sessions.exchange
 127.0.0.1 get35.com
+127.0.0.1 getnewsupdate.info
 127.0.0.1 gffupsrgds.com
 127.0.0.1 gg.074tu.com
 127.0.0.1 gg.463tu.com
@@ -1824,6 +1840,7 @@
 127.0.0.1 googleads.g.doubleclick.net
 127.0.0.1 gpk-client.com
 127.0.0.1 graphics.pop6.com
+127.0.0.1 greview.pro
 127.0.0.1 gtssl-aia.geotrust.com
 127.0.0.1 guangyukeji.com
 127.0.0.1 guanjia.qq.com
@@ -2231,6 +2248,7 @@
 127.0.0.1 lucky288.com
 127.0.0.1 lulukan.qyhxhnt.com
 127.0.0.1 luoshenbest.com
+127.0.0.1 lup9.getnewsupdate.info
 127.0.0.1 lutelu.com
 127.0.0.1 lwq.wangketuan.com
 127.0.0.1 lxvm08.me
@@ -2315,6 +2333,7 @@
 127.0.0.1 miegpokitjxm.com
 127.0.0.1 migu.kssws.ks-cdn.com
 127.0.0.1 milleonid.com
+127.0.0.1 ministedik.info
 127.0.0.1 misqms.cn
 127.0.0.1 missweike007.com
 127.0.0.1 missweike0088.com
@@ -2410,6 +2429,7 @@
 127.0.0.1 n.3g.163.com
 127.0.0.1 n.smnr6.cn
 127.0.0.1 n2050.com
+127.0.0.1 n5df.getnewsupdate.info
 127.0.0.1 n9856.com
 127.0.0.1 naa165.me
 127.0.0.1 nb898.com
@@ -2426,6 +2446,7 @@
 127.0.0.1 new.cnzz.com
 127.0.0.1 newdl.yotool.com
 127.0.0.1 newdonate.com
+127.0.0.1 newsupdatedir.info
 127.0.0.1 newton1.club
 127.0.0.1 nex.163.com
 127.0.0.1 nextlnk1.com
@@ -2445,6 +2466,7 @@
 127.0.0.1 nn1313.com
 127.0.0.1 nn5051.com
 127.0.0.1 node1.atas.io
+127.0.0.1 nqf9.getnewsupdate.info
 127.0.0.1 nryiou.cn
 127.0.0.1 ns1.adriver.ru
 127.0.0.1 ns1.atas.io
@@ -2474,6 +2496,7 @@
 127.0.0.1 ok88ok0.com
 127.0.0.1 ok89okl.com
 127.0.0.1 okay-dating.com
+127.0.0.1 okaymobi.com
 127.0.0.1 ol01l0.andad.work
 127.0.0.1 omg.inte.sogoucdn.com
 127.0.0.1 oms.expedia.com
@@ -2744,6 +2767,7 @@
 127.0.0.1 rnl319.com
 127.0.0.1 rnl373.com
 127.0.0.1 rocktraff.com
+127.0.0.1 rosemand.pro
 127.0.0.1 rp.gwallet.com
 127.0.0.1 rpc-php.trafficfactory.biz
 127.0.0.1 rplog.baidu.com
@@ -2970,6 +2994,7 @@
 127.0.0.1 safsq.wkbmw.cn
 127.0.0.1 sale.aliexpress.com
 127.0.0.1 salescs.com
+127.0.0.1 sationy.info
 127.0.0.1 saxn.sina.com.cn
 127.0.0.1 saxp.zedo.com
 127.0.0.1 sb.eubn7.com
@@ -3256,6 +3281,7 @@
 127.0.0.1 tg.yxdou.com
 127.0.0.1 theta.sogoucdn.com
 127.0.0.1 tickers.playtech.com
+127.0.0.1 titranco.info
 127.0.0.1 tj.uca6.com
 127.0.0.1 tk6a7.skpbp14.pw
 127.0.0.1 tloqqquh.lnnrw.top
@@ -3299,6 +3325,7 @@
 127.0.0.1 tracking.v.tf.360.cn
 127.0.0.1 trackingclick.net
 127.0.0.1 traffic.fstsrv.com
+127.0.0.1 traktrafficflow.com
 127.0.0.1 trc.taboola.com
 127.0.0.1 trck.titanexclusive.rocks
 127.0.0.1 trgjzt.cn
@@ -3409,6 +3436,7 @@
 127.0.0.1 v3.cnzz.com
 127.0.0.1 v3m.youzu.com
 127.0.0.1 v3rjvtt.com
+127.0.0.1 v3zo.getnewsupdate.info
 127.0.0.1 v4.cnzz.com
 127.0.0.1 v5.cnzz.com
 127.0.0.1 v55770.com
@@ -3480,6 +3508,7 @@
 127.0.0.1 vns95790.com
 127.0.0.1 vnsr1019.com
 127.0.0.1 vnsrkhd.com
+127.0.0.1 vo1r.getnewsupdate.info
 127.0.0.1 vod.pk1173.com
 127.0.0.1 vs.hangdeng.net
 127.0.0.1 vsm3mm.chaojingmi.cn
@@ -4254,6 +4283,7 @@
 127.0.0.1 www.gb824.com
 127.0.0.1 www.gbbsqc.com
 127.0.0.1 www.gcwdq.com
+127.0.0.1 www.get-a-fuck-tonight.com
 127.0.0.1 www.gg333js.com
 127.0.0.1 www.ggxpj5.com
 127.0.0.1 www.glc11.com
@@ -4782,12 +4812,14 @@
 127.0.0.1 xzg5588.com
 127.0.0.1 y0.cn
 127.0.0.1 y2608.com
+127.0.0.1 y9ji.getnewsupdate.info
 127.0.0.1 yahu24.com
 127.0.0.1 yan008.com
 127.0.0.1 yb6.me
 127.0.0.1 ye.tsdlp.com
 127.0.0.1 yepdigital.adk2x.com
 127.0.0.1 yezilm.com
+127.0.0.1 yfyv.getnewsupdate.info
 127.0.0.1 yhcw.org.cn
 127.0.0.1 yhelper.188jinbi.com
 127.0.0.1 yieldmo.com
