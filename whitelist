@@ -1,9 +1,11 @@
-# This hosts file contains exported entries from AdAway.
-white s.click.tmall.com
-white s.click.taobao.com
-white pp.myapp.com
 white *.flyme.cn
-white url.cn
-white t.cn
-white sh.st
+white *.ggpht.com
+white *.myapp.com
 white bit.ly
+white cdn.*.qq.com
+white goo.gl
+white s.click.taobao.com
+white s.click.tmall.com
+white sh.st
+white t.cn
+white url.cn
