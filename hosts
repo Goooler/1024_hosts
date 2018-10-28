@@ -17,10 +17,6 @@
 127.0.0.1 1360.cn
 127.0.0.1 1360.com.cn
 127.0.0.1 13pic.jdlhg.com
-127.0.0.1 zogo.meizhuzhuangshi.com.cn
-127.0.0.1 zhongzijidi.co
-127.0.0.1 cdn.whysoserius.club
-127.0.0.1 cdn.trafficbee.com
 127.0.0.1 163.wrating.com
 127.0.0.1 1755568.live173.com
 127.0.0.1 17kxgame.com
@@ -864,8 +860,10 @@
 127.0.0.1 cdn.taboolasyndication.com
 127.0.0.1 cdn.tanx.com
 127.0.0.1 cdn.tianmidian.com
+127.0.0.1 cdn.trafficbee.com
 127.0.0.1 cdn.vamaker.com
 127.0.0.1 cdn.viglink.com
+127.0.0.1 cdn.whysoserius.club
 127.0.0.1 cdn.whysoserius.club
 127.0.0.1 cdn.wwwpromoter.com
 127.0.0.1 cdn.zampdsp.com
@@ -1164,6 +1162,8 @@
 127.0.0.1 display.360totalsecurity.com
 127.0.0.1 disqus.com
 127.0.0.1 dizhi.yjg5.com
+127.0.0.1 dl_dir.qq.com
+127.0.0.1 dl_dir2.qq.com
 127.0.0.1 dl-vip.bav.baidu.com
 127.0.0.1 dl-vip.pcfaster.baidu.co.th
 127.0.0.1 dl.2345.com
@@ -1177,8 +1177,6 @@
 127.0.0.1 dl.wan.sogoucdn.com
 127.0.0.1 dl1sw.baidu.com
 127.0.0.1 dl2.bav.baidu.com
-127.0.0.1 dl_dir.qq.com
-127.0.0.1 dl_dir2.qq.com
 127.0.0.1 dldir1.qq.com
 127.0.0.1 dldir2.qq.com
 127.0.0.1 dldir3.qq.com
@@ -4451,10 +4449,12 @@
 127.0.0.1 zgbo.cc
 127.0.0.1 zgow.cc
 127.0.0.1 zhihu-web-analytics.zhihu.com
+127.0.0.1 zhongzijidi.co
 127.0.0.1 zhou.lloojjddss467.net
 127.0.0.1 zjjyts.net
 127.0.0.1 zl8206.huliangongyu.com
 127.0.0.1 zncdm.iikll.cn
+127.0.0.1 zogo.meizhuzhuangshi.com.cn
 127.0.0.1 zr9995zr.com
 127.0.0.1 zr9996bet.com
 127.0.0.1 zr9997.vip
