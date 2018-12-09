@@ -115,6 +115,7 @@
 127.0.0.1 a.startui19999.com
 127.0.0.1 a.teads.tv
 127.0.0.1 a.travel-assets.com
+127.0.0.1 a.vfgtb.com
 127.0.0.1 a1.peoplecdn.cn
 127.0.0.1 a1click.cpc.sogou.com
 127.0.0.1 a2.huiqituan.com
@@ -190,7 +191,6 @@
 127.0.0.1 ad.maist.jp
 127.0.0.1 ad.player.baidu.com
 127.0.0.1 ad.pornimg.xyz
-
 127.0.0.1 ad.shorte.st
 127.0.0.1 ad.sitemaji.com
 127.0.0.1 ad.trafficjunky.net
@@ -680,7 +680,6 @@
 127.0.0.1 c.go-mpulse.net
 127.0.0.1 c.guangtui1999.com
 127.0.0.1 c.lucktui.com
-
 127.0.0.1 c.mgid.com
 127.0.0.1 c.pc.qq.com
 127.0.0.1 c.piclect.com
@@ -914,7 +913,6 @@
 127.0.0.1 ckstatic.com
 127.0.0.1 clc.chiuhua.com.cn
 127.0.0.1 clc.wanmancn.com
-
 127.0.0.1 cleaner.baidu.com
 127.0.0.1 clg.doublemax.net
 127.0.0.1 click-cn.plista.com
@@ -990,7 +988,6 @@
 127.0.0.1 commercial.shouji.360.cn
 127.0.0.1 config.youzu.com
 127.0.0.1 constintptr.com
-
 127.0.0.1 content.adriver.ru
 127.0.0.1 content.digicert.com
 127.0.0.1 cookie.vrtzads.com
@@ -1119,16 +1116,13 @@
 127.0.0.1 crowd.xiaohui4.cn
 127.0.0.1 crs.baidu.com
 127.0.0.1 crt.comodoca.com
-
 127.0.0.1 cs.adxpansion.com
-
 127.0.0.1 cs.gssprt.jp
 127.0.0.1 cs.m4.7mao.club
 127.0.0.1 cs.nex8.net
 127.0.0.1 csktv98.com
 127.0.0.1 ct.36900pf.com
 127.0.0.1 ctrack.trafficjunky.net
-
 127.0.0.1 ctwfan.cn
 127.0.0.1 cvsvtw.space
 127.0.0.1 cw.addthis.com
@@ -1861,6 +1855,7 @@
 127.0.0.1 lyjpd.cn
 127.0.0.1 lzcei.com
 127.0.0.1 m.020zrmbwx.com
+127.0.0.1 m.181mob.com
 127.0.0.1 m.777lu.co
 127.0.0.1 m.addthis.com
 127.0.0.1 m.adnxs.com
@@ -1882,7 +1877,6 @@
 127.0.0.1 m.starcreator.com.cn
 127.0.0.1 m.wantmatures.com
 127.0.0.1 m.youhuomeishi.com
-
 127.0.0.1 m.youzu.com
 127.0.0.1 m.yyeks.com
 127.0.0.1 m.yzjlsb.com
@@ -1966,7 +1960,6 @@
 127.0.0.1 mob1.qqziyun.com
 127.0.0.1 mob1.tjbfysc.com
 127.0.0.1 mob11.youyicl.com
-
 127.0.0.1 mob22.lymiao89.com
 127.0.0.1 mobads-logs.baidu.com
 127.0.0.1 mobads.baidu.com
@@ -1978,7 +1971,6 @@
 127.0.0.1 mobile.dk99999.com
 127.0.0.1 mobile.jq236.com
 127.0.0.1 mobile.juicyads.com
-
 127.0.0.1 mobile.onlyhookup.com
 127.0.0.1 mobile.whitelabelpros.com
 127.0.0.1 mobileus27.tk
@@ -2376,7 +2368,6 @@
 127.0.0.1 redpaper-10006092.cos.myqcloud.com
 127.0.0.1 regbcgffty5.qiebeichang.com
 127.0.0.1 rekovers.ru
-
 127.0.0.1 release.baidu.com
 127.0.0.1 repository.certum.pl
 127.0.0.1 res.play700.com
@@ -2736,7 +2727,6 @@
 127.0.0.1 spidermobi.com
 127.0.0.1 sports.youzu.com
 127.0.0.1 spot-01.atas.io
-
 127.0.0.1 spotscenered.info
 127.0.0.1 spyoff.com
 127.0.0.1 spyoff.dislo.cloud
@@ -2865,6 +2855,7 @@
 127.0.0.1 t.frtyh.com
 127.0.0.1 t.frtyj.com
 127.0.0.1 t.frtyk.com
+127.0.0.1 t.frtyt.com
 127.0.0.1 t.fv99.com
 127.0.0.1 t.grtyi.com
 127.0.0.1 t.hrtyc.com
@@ -2951,7 +2942,6 @@
 127.0.0.1 tracker.adxpansion.com
 127.0.0.1 tracker.bang.com
 127.0.0.1 tracker.ero-advertising.com
-
 127.0.0.1 tracking.datastackpro.com
 127.0.0.1 tracking.prmtracking.com
 127.0.0.1 tracking.v.tf.360.cn
@@ -3104,7 +3094,6 @@
 127.0.0.1 vfzfi.redirectvoluum.com
 127.0.0.1 vfzfi.voluumtrk.com
 127.0.0.1 vhldwuv6om.com
-
 127.0.0.1 video.youzu.com
 127.0.0.1 videopush.baidu.com
 127.0.0.1 vip.xiehuizhi.com
@@ -3803,7 +3792,6 @@
 127.0.0.1 www.adx.adnxs.com
 127.0.0.1 www.ah116.net
 127.0.0.1 www.aiyinuo1989.com
-
 127.0.0.1 www.alluc.ee
 127.0.0.1 www.amateurpayouts.com
 127.0.0.1 www.amlp8810.tk
@@ -4103,7 +4091,6 @@
 127.0.0.1 www.popcash.net
 127.0.0.1 www.popcornvod.com
 127.0.0.1 www.poweredbyliquidfire.mobi
-
 127.0.0.1 www.pp5200.com
 127.0.0.1 www.pp9899.com
 127.0.0.1 www.psbxg.net
@@ -4136,7 +4123,6 @@
 127.0.0.1 www.reallatinaexposed.com
 127.0.0.1 www.reallesbianexposed.com
 127.0.0.1 www.recaptcha.net
-
 127.0.0.1 www.reseireejoch.info
 127.0.0.1 www.rh31.com
 127.0.0.1 www.rhcapass.com
@@ -4157,7 +4143,6 @@
 127.0.0.1 www.secmomo.com
 127.0.0.1 www.securegfm.com
 127.0.0.1 www.sepyqhipq.com
-
 127.0.0.1 www.sexy-more.com
 127.0.0.1 www.sexy557.com
 127.0.0.1 www.sezvc.com
