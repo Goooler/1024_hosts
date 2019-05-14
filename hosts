@@ -163,6 +163,7 @@
 127.0.0.1 activate.wip3.adobe.com
 127.0.0.1 ad-a.juicyad.com
 127.0.0.1 ad-apac.doubleclick.net
+127.0.0.1 ad-specs.guoshipartners.com:443
 127.0.0.1 ad.52av.tv
 127.0.0.1 ad.adhce.cn
 127.0.0.1 ad.adk2x.com
@@ -189,6 +190,7 @@
 127.0.0.1 ad.doublemax.net
 127.0.0.1 ad.email.7mao.club
 127.0.0.1 ad.ero-advertising.com
+127.0.0.1 ad.ettoday.net:443
 127.0.0.1 ad.exdynsrv.com
 127.0.0.1 ad.exoclick.com
 127.0.0.1 ad.exosrv.com
@@ -202,6 +204,7 @@
 127.0.0.1 ad.pornimg.xyz:443
 127.0.0.1 ad.shorte.st
 127.0.0.1 ad.sitemaji.com
+127.0.0.1 ad.sitemaji.com:443
 127.0.0.1 ad.trafficjunky.net
 127.0.0.1 ad.turn.com
 127.0.0.1 ad.yenlm.com
@@ -264,6 +267,7 @@
 127.0.0.1 ads.birdmedia.com
 127.0.0.1 ads.bstlnk.com
 127.0.0.1 ads.cdn.rovio.com
+127.0.0.1 ads.ck101.com:443
 127.0.0.1 ads.contentabc.com
 127.0.0.1 ads.dmm.com
 127.0.0.1 ads.dokrmob.com
@@ -286,6 +290,7 @@
 127.0.0.1 ads.stickyadstv.com
 127.0.0.1 ads.trafficjunky.net
 127.0.0.1 ads.turn.com
+127.0.0.1 ads.yap.yahoo.com:443
 127.0.0.1 ads.yenlm.com
 127.0.0.1 ads.yieldmo.com
 127.0.0.1 ads1.contentabc.com
@@ -303,6 +308,7 @@
 127.0.0.1 adsco.re
 127.0.0.1 adserver.juicyads.com
 127.0.0.1 adserver.smart.bid
+127.0.0.1 adservice.google.com:443
 127.0.0.1 adsfactor.net
 127.0.0.1 adskeeper.co.uk
 127.0.0.1 adsniper.ru
@@ -346,6 +352,7 @@
 127.0.0.1 ampj3000.com
 127.0.0.1 amyl8876.com
 127.0.0.1 analitits.com
+127.0.0.1 analytics.ad.daum.net:443
 127.0.0.1 analytics.hz.netease.com
 127.0.0.1 analytics.shorte.st
 127.0.0.1 anastasiadate.com
@@ -931,6 +938,7 @@
 127.0.0.1 chufengep.com
 127.0.0.1 cjfgh.iikll.cn
 127.0.0.1 ck.juicyads.com
+127.0.0.1 ckck.fun:443
 127.0.0.1 ckkummq.cn
 127.0.0.1 ckstatic.com
 127.0.0.1 clc.chiuhua.com.cn
@@ -1472,6 +1480,7 @@
 127.0.0.1 go43210.com
 127.0.0.1 goldspring.net
 127.0.0.1 googleads.g.doubleclick.net
+127.0.0.1 googleads.g.doubleclick.net:443
 127.0.0.1 gotoniubiurl.pw
 127.0.0.1 gpk-client.com
 127.0.0.1 graphics.pop6.com
@@ -1594,6 +1603,7 @@
 127.0.0.1 ia.51.la
 127.0.0.1 iad.g.163.com
 127.0.0.1 ib.adnxs.com
+127.0.0.1 ib.adnxs.com:443
 127.0.0.1 iclick.cm.admaster.com.cn
 127.0.0.1 icon.cnzz.com
 127.0.0.1 icon.users.51.la
@@ -2363,6 +2373,7 @@
 127.0.0.1 pubads.g.doubleclick.net
 127.0.0.1 pubs2-asia.creativecdn.com
 127.0.0.1 purchase.centrobill.com
+127.0.0.1 push.ckck.fun:443
 127.0.0.1 push.yuedu.163.com
 127.0.0.1 push.zhanzhang.baidu.com
 127.0.0.1 pushance.com
@@ -2740,6 +2751,7 @@
 127.0.0.1 securejoinsite.com
 127.0.0.1 secureldrtrack.com
 127.0.0.1 securepubads.g.doubleclick.net
+127.0.0.1 securepubads.g.doubleclick.net:443
 127.0.0.1 seekerboy.xsrv.jp
 127.0.0.1 seethisinaction.com
 127.0.0.1 segpay.com
