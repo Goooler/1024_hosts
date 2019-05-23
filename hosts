@@ -165,7 +165,7 @@
 127.0.0.1 activate.wip3.adobe.com
 127.0.0.1 ad-a.juicyad.com
 127.0.0.1 ad-apac.doubleclick.net
-127.0.0.1 ad-specs.guoshipartners.com:443
+127.0.0.1 ad-specs.guoshipartners.com
 127.0.0.1 ad.52av.tv
 127.0.0.1 ad.adhce.cn
 127.0.0.1 ad.adk2x.com
@@ -192,7 +192,7 @@
 127.0.0.1 ad.doublemax.net
 127.0.0.1 ad.email.7mao.club
 127.0.0.1 ad.ero-advertising.com
-127.0.0.1 ad.ettoday.net:443
+127.0.0.1 ad.ettoday.net
 127.0.0.1 ad.exdynsrv.com
 127.0.0.1 ad.exoclick.com
 127.0.0.1 ad.exosrv.com
@@ -203,10 +203,8 @@
 127.0.0.1 ad.maist.jp
 127.0.0.1 ad.player.baidu.com
 127.0.0.1 ad.pornimg.xyz
-127.0.0.1 ad.pornimg.xyz:443
 127.0.0.1 ad.shorte.st
 127.0.0.1 ad.sitemaji.com
-127.0.0.1 ad.sitemaji.com:443
 127.0.0.1 ad.trafficjunky.net
 127.0.0.1 ad.turn.com
 127.0.0.1 ad.yenlm.com
@@ -242,7 +240,7 @@
 127.0.0.1 adobe-dns.adobe.com
 127.0.0.1 adondemand.genieesspv.jp
 127.0.0.1 adplexmedia.adk2x.com
-127.0.0.1 adqy6rzwcs.com:443
+127.0.0.1 adqy6rzwcs.com
 127.0.0.1 adriver.ru
 127.0.0.1 adrunnr.com
 127.0.0.1 ads-a.juicyads.com
@@ -269,7 +267,7 @@
 127.0.0.1 ads.birdmedia.com
 127.0.0.1 ads.bstlnk.com
 127.0.0.1 ads.cdn.rovio.com
-127.0.0.1 ads.ck101.com:443
+127.0.0.1 ads.ck101.com
 127.0.0.1 ads.contentabc.com
 127.0.0.1 ads.dmm.com
 127.0.0.1 ads.dokrmob.com
@@ -292,7 +290,7 @@
 127.0.0.1 ads.stickyadstv.com
 127.0.0.1 ads.trafficjunky.net
 127.0.0.1 ads.turn.com
-127.0.0.1 ads.yap.yahoo.com:443
+127.0.0.1 ads.yap.yahoo.com
 127.0.0.1 ads.yenlm.com
 127.0.0.1 ads.yieldmo.com
 127.0.0.1 ads1.contentabc.com
@@ -310,7 +308,7 @@
 127.0.0.1 adsco.re
 127.0.0.1 adserver.juicyads.com
 127.0.0.1 adserver.smart.bid
-127.0.0.1 adservice.google.com:443
+127.0.0.1 adservice.google.com
 127.0.0.1 adsfactor.net
 127.0.0.1 adskeeper.co.uk
 127.0.0.1 adsniper.ru
@@ -354,7 +352,7 @@
 127.0.0.1 ampj3000.com
 127.0.0.1 amyl8876.com
 127.0.0.1 analitits.com
-127.0.0.1 analytics.ad.daum.net:443
+127.0.0.1 analytics.ad.daum.net
 127.0.0.1 analytics.hz.netease.com
 127.0.0.1 analytics.shorte.st
 127.0.0.1 anastasiadate.com
@@ -698,7 +696,6 @@
 127.0.0.1 bw7348.me
 127.0.0.1 bwin2599.com
 127.0.0.1 c.adsco.re
-127.0.0.1 c.adsco.re:443
 127.0.0.1 c.adsymptotic.com
 127.0.0.1 c.amazon-adsystem.com
 127.0.0.1 c.cnzz.com
@@ -944,7 +941,7 @@
 127.0.0.1 chufengep.com
 127.0.0.1 cjfgh.iikll.cn
 127.0.0.1 ck.juicyads.com
-127.0.0.1 ckck.fun:443
+127.0.0.1 ckck.fun
 127.0.0.1 ckkummq.cn
 127.0.0.1 ckstatic.com
 127.0.0.1 clc.chiuhua.com.cn
@@ -1298,7 +1295,7 @@
 127.0.0.1 e.xlsschina15.net
 127.0.0.1 e.yyeks.com
 127.0.0.1 e3033.net
-127.0.0.1 e73.t6qnj6a4v.com:443
+127.0.0.1 e73.t6qnj6a4v.com
 127.0.0.1 easyrecoverychina.com
 127.0.0.1 eatcells.com
 127.0.0.1 eb2.3lift.com
@@ -1361,7 +1358,7 @@
 127.0.0.1 f7.mtqys.com
 127.0.0.1 f8.mtqys.com
 127.0.0.1 f9.mtqys.com
-127.0.0.1 f99.265958.com:443
+127.0.0.1 f99.265958.com
 127.0.0.1 faassd.adhce.cn
 127.0.0.1 fabrkrup.com
 127.0.0.1 fafa.ya4444.com
@@ -1488,9 +1485,9 @@
 127.0.0.1 go.wellhello.com
 127.0.0.1 go2linkfast.com
 127.0.0.1 go43210.com
+127.0.0.1 gold.szonline.net
 127.0.0.1 goldspring.net
 127.0.0.1 googleads.g.doubleclick.net
-127.0.0.1 googleads.g.doubleclick.net:443
 127.0.0.1 gotoniubiurl.pw
 127.0.0.1 gpk-client.com
 127.0.0.1 graphics.pop6.com
@@ -1616,7 +1613,6 @@
 127.0.0.1 ia.51.la
 127.0.0.1 iad.g.163.com
 127.0.0.1 ib.adnxs.com
-127.0.0.1 ib.adnxs.com:443
 127.0.0.1 iclick.cm.admaster.com.cn
 127.0.0.1 icon.cnzz.com
 127.0.0.1 icon.users.51.la
@@ -1724,7 +1720,7 @@
 127.0.0.1 j.neemzksw.com
 127.0.0.1 j.qianliexiancha.com
 127.0.0.1 j.qiqivv.com
-127.0.0.1 j.qiqivv.com:4433
+127.0.0.1 j.qiqivv.com3
 127.0.0.1 j.qtjthk.com
 127.0.0.1 j.ruixxiangapp.com
 127.0.0.1 j.wan.liebao.cn
@@ -1848,7 +1844,6 @@
 127.0.0.1 jy.fucfg.com
 127.0.0.1 jybwt8.top
 127.0.0.1 k.henanfs.com
-127.0.0.1 k.henanfs.com:443
 127.0.0.1 k.xmtsyg.com
 127.0.0.1 k0398.com
 127.0.0.1 k1.medicine-directory.com.cn
@@ -1970,7 +1965,6 @@
 127.0.0.1 m.youhuomeishi.com
 127.0.0.1 m.youzu.com
 127.0.0.1 m.yttz113.com
-127.0.0.1 m.yttz113.com:443
 127.0.0.1 m.yyeks.com
 127.0.0.1 m.yzjlsb.com
 127.0.0.1 m.za5.net
@@ -2088,7 +2082,7 @@
 127.0.0.1 mop.naaec.cn
 127.0.0.1 mop1.pyzhtj.com
 127.0.0.1 moradu.com
-127.0.0.1 motoe.plokr.com:5108
+127.0.0.1 motoe.plokr.com
 127.0.0.1 mp8883.com
 127.0.0.1 mr.da.netease.com
 127.0.0.1 ms.actingidekex.cn
@@ -2403,7 +2397,7 @@
 127.0.0.1 pubads.g.doubleclick.net
 127.0.0.1 pubs2-asia.creativecdn.com
 127.0.0.1 purchase.centrobill.com
-127.0.0.1 push.ckck.fun:443
+127.0.0.1 push.ckck.fun
 127.0.0.1 push.yuedu.163.com
 127.0.0.1 push.zhanzhang.baidu.com
 127.0.0.1 pushance.com
@@ -2781,7 +2775,6 @@
 127.0.0.1 securejoinsite.com
 127.0.0.1 secureldrtrack.com
 127.0.0.1 securepubads.g.doubleclick.net
-127.0.0.1 securepubads.g.doubleclick.net:443
 127.0.0.1 seekerboy.xsrv.jp
 127.0.0.1 seethisinaction.com
 127.0.0.1 segpay.com
@@ -2931,7 +2924,6 @@
 127.0.0.1 strip.taobaocdn.com
 127.0.0.1 stuff.cdn.biddingx.com
 127.0.0.1 stunninglover.com
-127.0.0.1 stunninglover.com:443
 127.0.0.1 su4y89.club
 127.0.0.1 sugar.zhihu.com
 127.0.0.1 sun0062.com
@@ -3091,7 +3083,6 @@
 127.0.0.1 ts.youzu.com
 127.0.0.1 tsdown.hzbtwy.com
 127.0.0.1 tsyndicate.com
-127.0.0.1 tsyndicate.com:443
 127.0.0.1 tt3.zedo.com
 127.0.0.1 tt4647.com
 127.0.0.1 tu.18cdn.com
@@ -3143,6 +3134,7 @@
 127.0.0.1 update.123juzi.net
 127.0.0.1 update.360safe.com
 127.0.0.1 update.pan.baidu.com
+127.0.0.1 updates.guitar-pro.com
 127.0.0.1 upgrade.xl9.xunlei.com
 127.0.0.1 upload_data.qq.com
 127.0.0.1 urbanprizedub.racing
@@ -3869,7 +3861,7 @@
 127.0.0.1 www.91019k.net
 127.0.0.1 www.912222.co
 127.0.0.1 www.9129927.com
-127.0.0.1 www.913vt.com:443
+127.0.0.1 www.913vt.com
 127.0.0.1 www.9158bet.com
 127.0.0.1 www.917zf.com
 127.0.0.1 www.9225f.com
