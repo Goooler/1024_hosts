@@ -231,6 +231,7 @@
 127.0.0.1 adk2x.xyz
 127.0.0.1 adm.10jqka.com.cn
 127.0.0.1 adm.86wan.com
+127.0.0.1 adm.zookingsoft.com
 127.0.0.1 admin.digicert.com
 127.0.0.1 admin.exoclick.com
 127.0.0.1 admin.panda.bns.17kxgame.com
@@ -321,6 +322,7 @@
 127.0.0.1 adultfriendfinder.com
 127.0.0.1 adverster.com
 127.0.0.1 adwasd.xuezuocai88.com
+127.0.0.1 adx-static.ksosoft.com
 127.0.0.1 adx.adhce.cn
 127.0.0.1 adx.adk2x.com
 127.0.0.1 adx.adnxs.com
@@ -403,6 +405,7 @@
 127.0.0.1 api.huo360.com
 127.0.0.1 api.juicyads.com
 127.0.0.1 api.mcwbiz.com
+127.0.0.1 api.mini.wps.cn
 127.0.0.1 api.mixpanel.com
 127.0.0.1 api.popads.net
 127.0.0.1 api.popcash.net
@@ -997,6 +1000,10 @@
 127.0.0.1 cloudcdn.dopa.com
 127.0.0.1 cloudcdn.dopa.com.cn
 127.0.0.1 cloudcdn.yousee.com
+127.0.0.1 cloudservice12.kingsoft-office-service.com
+127.0.0.1 cloudservice13.kingsoft-office-service.com
+127.0.0.1 cloudservice22.kingsoft-office-service.com
+127.0.0.1 cloudservice27.kingsoft-office-service.com
 127.0.0.1 cm.adskeeper.co.uk
 127.0.0.1 cm.baichuan.baidu.com
 127.0.0.1 cm.baidu.com
@@ -1128,6 +1135,8 @@
 127.0.0.1 count97.51yes.com
 127.0.0.1 count98.51yes.com
 127.0.0.1 count99.51yes.com
+127.0.0.1 counter.kingsoft.com
+127.0.0.1 counter.ksosoft.com
 127.0.0.1 cp.adform.net
 127.0.0.1 cp.jfcdns.com
 127.0.0.1 cp.xz6.com
@@ -1146,6 +1155,7 @@
 127.0.0.1 cpweb.kosungames.com
 127.0.0.1 cqllgg.com
 127.0.0.1 cr-p1.ladsp.com
+127.0.0.1 crashes.mo.wps.cn
 127.0.0.1 crashlytics.163.com
 127.0.0.1 crl3.digicert.com
 127.0.0.1 crl4.digicert.com
@@ -1280,6 +1290,10 @@
 127.0.0.1 dsp-click.youdao.com
 127.0.0.1 dtscout.rtb.adx1.com
 127.0.0.1 dup.baidustatic.com
+127.0.0.1 dw-collect.ksosoft.com
+127.0.0.1 dw-online.ksosoft.com
+127.0.0.1 dyn.wps.cn
+127.0.0.1 dynsrv.wps.cn
 127.0.0.1 dyzxg.cn
 127.0.0.1 dzl.baidu.com
 127.0.0.1 e-boys-store.jp
@@ -1337,6 +1351,7 @@
 127.0.0.1 eu.sync-srv.com
 127.0.0.1 euiofapbmmtw.l.adsco.re
 127.0.0.1 eus.rubiconproject.com
+127.0.0.1 event.ksosoft.com
 127.0.0.1 eversely.com
 127.0.0.1 exoclick.com
 127.0.0.1 exosrv.com
@@ -1514,6 +1529,7 @@
 127.0.0.1 h8vzwpv.com
 127.0.0.1 h99998888.com
 127.0.0.1 h99999999.com
+127.0.0.1 haiwai-ic.ksosoft.com
 127.0.0.1 haixiutv.com
 127.0.0.1 hajtekzuoe.com
 127.0.0.1 hak.vbasjhl4.com
@@ -1563,6 +1579,7 @@
 127.0.0.1 homepage2.j8inn1zektoe.com
 127.0.0.1 homeshoppingspy.juicyads.com
 127.0.0.1 homesicktexan.juicyads.com
+127.0.0.1 hoplink.ksosoft.com
 127.0.0.1 hot.m.shouji.360tpcdn.com
 127.0.0.1 houxingfu.com
 127.0.0.1 hp.myway.com
@@ -1615,6 +1632,8 @@
 127.0.0.1 ia.51.la
 127.0.0.1 iad.g.163.com
 127.0.0.1 ib.adnxs.com
+127.0.0.1 ic.ksosoft.com
+127.0.0.1 ic.wps.cn
 127.0.0.1 iclick.cm.admaster.com.cn
 127.0.0.1 icon.cnzz.com
 127.0.0.1 icon.users.51.la
@@ -1638,6 +1657,7 @@
 127.0.0.1 img-cdn-spot.ymcdn.cn
 127.0.0.1 img.momode.net
 127.0.0.1 img.wan.sogou.com
+127.0.0.1 img1.mini.cache.wps.cn
 127.0.0.1 imgcdn.de92.com
 127.0.0.1 imgcdn.wapx.cn
 127.0.0.1 imglnka.com
@@ -1649,6 +1669,7 @@
 127.0.0.1 index.0470key.com
 127.0.0.1 index.woai310.com
 127.0.0.1 inewcontentdelivery.info
+127.0.0.1 info.wps.cn
 127.0.0.1 ini.update.360safe.com
 127.0.0.1 inrecsys.popin.cc
 127.0.0.1 insight.adsrvr.org
@@ -2083,7 +2104,9 @@
 127.0.0.1 mop.naaec.cn
 127.0.0.1 mop1.pyzhtj.com
 127.0.0.1 moradu.com
+127.0.0.1 mostat.wps.cn
 127.0.0.1 motoe.plokr.com
+127.0.0.1 moupdate1.kingsoft-office-service.com
 127.0.0.1 mp8883.com
 127.0.0.1 mr.da.netease.com
 127.0.0.1 ms.actingidekex.cn
@@ -2322,6 +2345,7 @@
 127.0.0.1 pixel.quantserve.com
 127.0.0.1 pixel.rubiconproject.com
 127.0.0.1 pixel.tapad.com
+127.0.0.1 pixiu.shangshufang.ksosoft.com
 127.0.0.1 pj3456.com
 127.0.0.1 pj38330.bet
 127.0.0.1 pj39330.bet
@@ -2399,6 +2423,7 @@
 127.0.0.1 pubs2-asia.creativecdn.com
 127.0.0.1 purchase.centrobill.com
 127.0.0.1 push.ckck.fun
+127.0.0.1 push.wps.cn
 127.0.0.1 push.yuedu.163.com
 127.0.0.1 push.zhanzhang.baidu.com
 127.0.0.1 pushance.com
@@ -2847,6 +2872,7 @@
 127.0.0.1 spdtrk.com
 127.0.0.1 speednetwork14.adk2x.com
 127.0.0.1 spidermobi.com
+127.0.0.1 spinfo.wps.cn
 127.0.0.1 sports.youzu.com
 127.0.0.1 spot-01.atas.io
 127.0.0.1 spotscenered.info
@@ -3019,6 +3045,7 @@
 127.0.0.1 tdsjsext.com
 127.0.0.1 tdsnewgo2.com
 127.0.0.1 tdwv1.talkingdata.com
+127.0.0.1 teinfo.wps.cn
 127.0.0.1 telecianien.host
 127.0.0.1 tempura.contentssl.com
 127.0.0.1 terraclicks.com
@@ -3120,6 +3147,7 @@
 127.0.0.1 ue.ueadlian.com
 127.0.0.1 ue.yeyoucdn.com
 127.0.0.1 ue161.pw
+127.0.0.1 uid.ksosoft.com
 127.0.0.1 ujlpbcsx.com
 127.0.0.1 um.simpli.fi
 127.0.0.1 um0592.com
@@ -3135,6 +3163,7 @@
 127.0.0.1 update.123juzi.net
 127.0.0.1 update.360safe.com
 127.0.0.1 update.pan.baidu.com
+127.0.0.1 update.wps.cn
 127.0.0.1 updates.guitar-pro.com
 127.0.0.1 upgrade.xl9.xunlei.com
 127.0.0.1 upload_data.qq.com
