@@ -1,5 +1,5 @@
 # 1024_hosts
-自用的hosts文件,用于屏蔽一些1024站的弹窗广告和辣鸡澳门赌场的广告。欢迎反馈
+自用的 hosts 文件,用于屏蔽一些1024站的辣鸡广告。欢迎反馈
 
 顺便贴一些别人维护可用的 hosts：  
 http://someonewhocares.org/hosts/hosts  
@@ -17,4 +17,4 @@ https://raw.githubusercontent.com/vokins/yhosts/master/hosts
 https://raw.githubusercontent.com/yous/YousList/master/hosts.txt  
 https://hosts.nfz.moe/full/hosts  
 
-另外发现这些 hosts 有部分误伤，建议将 whitelist 中域名加入白名单，或直接导入 Adaway
+另外发现这些 hosts 有部分误伤，建议将 whitelist 中规则加入白名单
