@@ -1,5 +1,5 @@
 # 1024_hosts
-自用的 hosts 文件,用于屏蔽一些1024站的辣鸡广告。欢迎反馈
+自用的 hosts 文件，用于屏蔽一些1024站的辣鸡广告。欢迎反馈
 
 顺便贴一些别人维护可用的 hosts：  
 http://someonewhocares.org/hosts/hosts  
