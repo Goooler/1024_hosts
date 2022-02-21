@@ -1,2 +1,4 @@
 temp.txt
 *.lnk
+.idea
+.vscode
