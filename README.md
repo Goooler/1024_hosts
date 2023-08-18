@@ -1,16 +1,16 @@
 # 1024_hosts
 自用的 hosts 文件，用于屏蔽一些1024站的辣鸡广告，欢迎反馈。
 
-顺便贴一些别人维护可用的 hosts:
-https://adaway.org/hosts.txt
-https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-https://raw.githubusercontent.com/tekintian/hosts_ads_block/master/mobile/hosts
-https://raw.githubusercontent.com/vokins/yhosts/master/hosts
-https://raw.githubusercontent.com/yous/YousList/master/hosts.txt
-https://someonewhocares.org/hosts/hosts
-https://sysctl.org/cameleon/hosts
-https://winhelp2002.mvps.org/hosts.txt
-https://www.hostsfile.org/Downloads/hosts.txt
+顺便贴一些别人维护可用的 hosts:  
+https://adaway.org/hosts.txt  
+https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext  
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts  
+https://raw.githubusercontent.com/tekintian/hosts_ads_block/master/mobile/hosts  
+https://raw.githubusercontent.com/vokins/yhosts/master/hosts  
+https://raw.githubusercontent.com/yous/YousList/master/hosts.txt  
+https://someonewhocares.org/hosts/hosts  
+https://sysctl.org/cameleon/hosts  
+https://winhelp2002.mvps.org/hosts.txt  
+https://www.hostsfile.org/Downloads/hosts.txt  
 
 另外发现这些 hosts 有部分误伤，建议将 [whitelist](whitelist) 中规则加入白名单
